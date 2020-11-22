@@ -1,16 +1,32 @@
-### Hi there 👋
+<!--[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile_light.gif)](https://www.praveensharma.cf/)-->
 
-<!--
-**Praveen101997/Praveen101997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/Praveen101997?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/Praveen101997?tab=repositories&q=&type=&language=javascript)
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/Praveen101997?tab=repositories&q=&type=&language=java)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)
+![Github](https://img.shields.io/badge/-Github-fff?&logo=Github)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
+![Jenkins](https://img.shields.io/badge/-Jenkins-fff?&logo=Jenkins)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
+
+### Complete projects
+
+[![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/Praveen101997/Praveen101997.github.io)
+[![Criminal Data Searching](https://img.shields.io/badge/-🦠%20Criminal%20Data%20Searchning-fff?)](https://github.com/Praveen101997/Criminal-Record-Management-System/)
+[![School Management System](https://img.shields.io/badge/-📝%20School%20Management%20System-fff?)](https://github.com/Praveen101997/College-Management-Syatem/)
+[![TA Helper](https://img.shields.io/badge/-🔬%20TA%20Helper-fff?)](https://github.com/Praveen101997/doubtsolverportal/)
+[![Chat Box](https://img.shields.io/badge/-🛰%20ChatBox-fff?)](https://github.com/Praveen101997/Chat-Box/)
+[![Binary Search Implementation](https://img.shields.io/badge/-🔊%20Binary%20Search%20Implementation-fff?)](https://github.com/Praveen101997/Binary-Search-Implementation/)
+[![Snake Xenzia](https://img.shields.io/badge/-🗺%20Snake%20Xenzia-fff?)](https://github.com/Praveen101997/Snake-Xenzia)
+[![Super Angry Flappy Bird](https://img.shields.io/badge/-🗺%20Super%20Angry%20Flappy%20Bird-fff?)](https://github.com/Praveen101997/Flappy-Bird-AI)
+
+<a href="https://www.praveensharma.cf/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Praveen101997&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen101997&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
