@@ -27,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
 
-### Complete projects
+### Projects
 
 [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/Praveen101997/Praveen101997.github.io)
 [![Criminal Data Searching](https://img.shields.io/badge/-🦠%20Criminal%20Data%20Searchning-fff?)](https://github.com/Praveen101997/Criminal-Record-Management-System/)
