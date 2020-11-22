@@ -1,4 +1,10 @@
 <!--[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile_light.gif)](https://www.praveensharma.cf/)-->
+<h1 align="center">Hi 👋, I'm Praveen Kumar Sharma</h1>
+<h3 align="center">A passionate Software developer & Former Student Trainee of Samsung R&D Institite Noida</h3>
+<h3 align="center">And</h3>
+<h3 align="center">Final Year Undergraduate in Computer Engineering from Delhi Technological University</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=praveen101997&label=Profile%20views&color=0e75b6&style=flat" alt="praveen101997" /> </p>
 
 ### Languages
 
@@ -15,6 +21,9 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-fff?&logo=Jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
+![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=firebase&logoColor=000)
+![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=heroku&logoColor=000)
+![OpenCV](https://img.shields.io/badge/-OpenCV-fff?&logo=opencv-python&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
 
@@ -30,3 +39,5 @@
 [![Super Angry Flappy Bird](https://img.shields.io/badge/-🗺%20Super%20Angry%20Flappy%20Bird-fff?)](https://github.com/Praveen101997/Flappy-Bird-AI)
 
 <a href="https://www.praveensharma.cf/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Praveen101997&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen101997&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen101997" alt="praveen101997" /></a> </p>
