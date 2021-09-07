@@ -1,8 +1,8 @@
 <!--[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile_light.gif)](https://www.praveensharma.cf/)-->
 <h1 align="center">Hi 👋, I'm Praveen Kumar Sharma</h1>
-<h3 align="center">A passionate Software developer & Former Student Trainee of Samsung R&D Institite Noida</h3>
+<h3 align="center">A passionate Software developer & Graduated in Computer Engineering from Delhi Technological University (DTU)</h3>
 <h3 align="center">And</h3>
-<h3 align="center">Final Year Undergraduate in Computer Engineering from Delhi Technological University</h3>
+<h3 align="center">Currenly Software Engineer at Samsung R&D Institute, Bangalore</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=praveen101997&label=Profile%20views&color=0e75b6&style=flat" alt="praveen101997" /> </p>
 
